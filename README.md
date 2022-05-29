@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Abdulvohid
+
+- I like to wriet Code
+
+## I'm a FrontEnd Devaloper
 
 <!--
 **Vaha77/vaha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
