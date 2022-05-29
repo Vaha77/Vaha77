@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Vlad
-
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+### Hi there 👋, I'm Abdulvohid
 
 ## I'm a FrontEnd Developer, and Teacher
 
