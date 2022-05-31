@@ -37,3 +37,9 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
+
+[website]:
+[youtube]:
+[linkedin]:
+[instagram]:
+[vk]:
