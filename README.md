@@ -32,8 +32,8 @@
 <br />
 
 <!-- <details> -->
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
+  <!-- <summary>:zap: Statistics:</summary> -->
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://themeforest.img.customer.envatousercontent.com/files/350904963/preview/preview.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=93a6ad8fa0a428bbdc664542a4491862" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 <!-- </details> -->
