@@ -35,9 +35,9 @@
   <!-- <summary>:zap: Statistics:</summary> -->
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://themeforest.img.customer.envatousercontent.com/files/350904963/preview/preview.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=93a6ad8fa0a428bbdc664542a4491862" />
     <br />
-    <img  align="left" alt="codeSTACKr's GitHub Stats" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgK82LEbVPvfzxA_s3Apvpb5jquXTuTigg474SA17glG4jV9vC3Wk4IIkGUJjwQavBUQ&usqp=CAU" />
     <div>
-    <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png' alt='ds'>
+    
+   <img  align="left" alt="codeSTACKr's GitHub Stats" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgK82LEbVPvfzxA_s3Apvpb5jquXTuTigg474SA17glG4jV9vC3Wk4IIkGUJjwQavBUQ&usqp=CAU" />
     </div>
 <!-- </details> -->
 
