@@ -6,7 +6,7 @@
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
 <!-- - ⚡ I love writing an article for https://webtricks-master.ru/ -->
-- 🤹🏽 I like to shoot videos for youtube
+<!-- - 🤹🏽 I like to shoot videos for youtube -->
 
 ### Connect with me:
 
