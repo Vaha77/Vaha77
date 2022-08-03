@@ -27,21 +27,3 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-<br />
-
-<!-- <details> -->
-  <!-- <summary>:zap: Statistics:</summary> -->
-  
-    <br />
-
-<img   align="left" alt="codeSTACKr's GitHub Stats" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgK82LEbVPvfzxA_s3Apvpb5jquXTuTigg474SA17glG4jV9vC3Wk4IIkGUJjwQavBUQ&usqp=CAU" />   
-  
-<!-- </details> -->
-
-<!-- [website]:
-[youtube]:
-[linkedin]:
-[instagram]:
-[vk]: -->
